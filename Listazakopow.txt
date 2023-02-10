@@ -1,0 +1,4 @@
+chleb	3.5
+jaja	8.0
+masło	5.5
+ryż		7.0
